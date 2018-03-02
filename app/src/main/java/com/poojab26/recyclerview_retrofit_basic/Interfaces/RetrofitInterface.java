@@ -1,7 +1,6 @@
 package com.poojab26.recyclerview_retrofit_basic.Interfaces;
 
 import com.poojab26.recyclerview_retrofit_basic.Model.Recipe;
-import com.poojab26.recyclerview_retrofit_basic.Model.RecipeList;
 
 import java.util.List;
 
